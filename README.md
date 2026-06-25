@@ -248,7 +248,32 @@ The platform reduced administrative workload for healthcare providers while prov
 
 **Screenshots**
 
-<p align="center"><img src="TatkalDoctor/1.png" width="400"><img src="TatkalDoctor/2.png" width="400"><img src="TatkalDoctor/3.png" width="400"><img src="TatkalDoctor/4.png" width="400"><img src="TatkalDoctor/5.png" width="400"><img src="TatkalDoctor/6.png" width="400"></p>
+<table align="center">
+<tr>
+<td valign="top">
+<img src="TatkalDoctor/1.png" width="400">
+</td>
+<td valign="top">
+<img src="TatkalDoctor/2.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="TatkalDoctor/3.png" width="400">
+</td>
+<td valign="top">
+<img src="TatkalDoctor/4.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="TatkalDoctor/5.png" width="400">
+</td>
+<td valign="top">
+<img src="TatkalDoctor/6.png" width="400">
+</td>
+</tr>
+</table>
 
 ## Core Laravel Expertise Demonstrated
 
