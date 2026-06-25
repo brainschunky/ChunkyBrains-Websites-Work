@@ -134,7 +134,32 @@ COCO created a centralized digital ecosystem for pet owners, improving accessibi
 
 **Screenshots**
 
-<p align="center"><img src="coco/coco1.png" width="400"><img src="coco/coco2.png" width="400"><img src="coco/coco3.png" width="400"><img src="coco/coco4.png" width="400"><img src="coco/coco5.png" width="400"><img src="coco/coco6.png" width="400"></p>
+<table align="center">
+<tr>
+<td valign="top">
+<img src="coco/coco1.png" width="400">
+</td>
+<td valign="top">
+<img src="coco/coco2.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="coco/coco3.png" width="400">
+</td>
+<td valign="top">
+<img src="coco/coco4.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="coco/coco5.png" width="400">
+</td>
+<td valign="top">
+<img src="coco/coco6.png" width="400">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -166,7 +191,32 @@ The platform improved operational efficiency by digitizing the relationship betw
 
 **Screenshots**
 
-<p align="center"><img src="PaintSuvidha/image1.png" width="400"><img src="PaintSuvidha/image2.png" width="400"><img src="PaintSuvidha/image3.png" width="400"><img src="PaintSuvidha/image4.png" width="400"><img src="PaintSuvidha/image5.png" width="400"><img src="PaintSuvidha/image6.png" width="400"></p>
+<table align="center">
+<tr>
+<td valign="top">
+<img src="PaintSuvidha/image1.png" width="400">
+</td>
+<td valign="top">
+<img src="PaintSuvidha/image2.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="PaintSuvidha/image3.png" width="400">
+</td>
+<td valign="top">
+<img src="PaintSuvidha/image4.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="PaintSuvidha/image5.png" width="400">
+</td>
+<td valign="top">
+<img src="PaintSuvidha/image6.png" width="400">
+</td>
+</tr>
+</table>
 
 ---
 
