@@ -77,6 +77,8 @@ The platform significantly reduced manual processes, improved operational transp
 
 **Technology Stack:** Laravel, MySQL, Geo-location Services, E-commerce Integration
 
+**Website Url:** https://coco.brickandwallsinc.com
+
 **Project Overview**
 
 COCO is a multi-service pet care platform that connects pet owners with veterinary doctors, grooming service providers, and pet product vendors. The platform offers healthcare appointment booking, doorstep pet care services, and an integrated pet products marketplace within a unified ecosystem.
@@ -96,6 +98,10 @@ COCO is a multi-service pet care platform that connects pet owners with veterina
 **Business Impact**
 
 COCO created a centralized digital ecosystem for pet owners, improving accessibility to healthcare services, grooming solutions, and pet product purchasing through a single platform.
+
+**Screenshots**
+
+<img src="coco/coco1.png" width="600"><img src="coco/coco2.png" width="600"><img src="coco/coco3.png" width="600"><img src="coco/coco4.png" width="600"><img src="coco/coco5.png" width="600"><img src="coco/coco6.png" width="600">
 
 ---
 
