@@ -73,7 +73,7 @@ The platform significantly reduced manual processes, improved operational transp
 
 ---
 
-## COCO – Pet Healthcare & Service Marketplace
+## Project 2: COCO – Pet Healthcare & Service Marketplace
 
 **Technology Stack:** Laravel, MySQL, Geo-location Services, E-commerce Integration
 
@@ -105,7 +105,7 @@ COCO created a centralized digital ecosystem for pet owners, improving accessibi
 
 ---
 
-## Paint Suvidha – Painting Service Management Platform
+## Project 3: Paint Suvidha – Painting Service Management Platform
 
 **Technology Stack:** Laravel, MySQL, Inventory Management System
 
@@ -137,13 +137,15 @@ The platform improved operational efficiency by digitizing the relationship betw
 
 ---
 
-## DoctorGoLive – WhatsApp Appointment Automation Platform
+## Project 4: Tatkal Doctor – WhatsApp Appointment Automation Platform
 
 **Technology Stack:** Laravel, WhatsApp Integration, QR Code System
 
+**Website Url:** https://www.tatkaldoctor.com/
+
 **Project Overview**
 
-DoctorGoLive is a healthcare appointment automation platform that leverages WhatsApp to simplify patient appointment scheduling. Each healthcare provider receives a unique QR code that patients can scan to instantly access booking, rescheduling, and appointment management services.
+Tatkal Doctor is a healthcare appointment automation platform that leverages WhatsApp to simplify patient appointment scheduling. Each healthcare provider receives a unique QR code that patients can scan to instantly access booking, rescheduling, and appointment management services.
 
 **Key Features**
 
@@ -160,6 +162,10 @@ DoctorGoLive is a healthcare appointment automation platform that leverages What
 **Business Impact**
 
 The platform reduced administrative workload for healthcare providers while providing patients with a familiar and convenient communication channel for managing appointments.
+
+**Screenshots**
+
+<p align="center"><img src="TatkalDoctor/1.png" width="400"><img src="TatkalDoctor/2.png" width="400"><img src="TatkalDoctor/3.png" width="400"><img src="TatkalDoctor/4.png" width="400"><img src="TatkalDoctor/5.png" width="400"><img src="TatkalDoctor/6.png" width="400"></p>
 
 ---
 
