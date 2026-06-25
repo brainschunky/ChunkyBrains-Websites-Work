@@ -320,7 +320,16 @@ The platform serves as a professional digital presence that clearly communicates
 
 **Screenshots**
 
-<img src="Amasol/amasol1.png" width="400"><img src="Amasol/amasol2.png" width="400">
+<table align="center">
+<tr>
+<td valign="top">
+<img src="Amasol/amasol1.png" width="400">
+</td>
+<td valign="top">
+<img src="Amasol/amasol2.png" width="400">
+</td>
+</tr>
+</table>
 
 ---
 
