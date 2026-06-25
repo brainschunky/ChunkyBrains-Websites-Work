@@ -167,7 +167,7 @@ COCO created a centralized digital ecosystem for pet owners, improving accessibi
 
 **Technology Stack:** Laravel, MySQL, Inventory Management System
 
-**Website Url:** https://brickandwallsinc.com/paintsuvidha/public/
+**Website Url:** https://paintsuvidha.aromasolutions.in/
 
 **Project Overview**
 
