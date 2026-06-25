@@ -285,6 +285,10 @@ DITEK Surge Protection is a leading provider of electrical and electronic surge 
 
 The website improves product visibility while educating customers about surge protection solutions and generating qualified business inquiries.
 
+**Screenshots**
+
+<p align="center"><img src="Ditek/image1.png" width="400"><img src="Ditek/image2.png" width="400"><img src="Ditek/image3.png" width="400"><img src="Ditek/image4.png" width="400"><img src="Ditek/image5.png" width="400"><img src="Ditek/image6.png" width="400"></p>
+
 ---
 
 ### Project 5: OKAYGROWTH – Growth Strategy & AI Solutions Platform
