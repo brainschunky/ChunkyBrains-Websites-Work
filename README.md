@@ -559,6 +559,155 @@ The platform positions OKAYGROWTH as a trusted growth partner while generating l
         }
     }
 
+**Highlights**
+
+* Service Layer Architecture
+* Database Transactions
+* Event Driven Development
+* Clean Code Principles
+
+### Advanced API Development
+
+    public function index(Request $request)
+    {
+        $users = User::query()
+            ->when($request->search, fn ($query, $search) =>
+                $query->where('name', 'like', "%{$search}%")
+            )
+            ->with('subscriptions')
+            ->latest()
+            ->paginate(20);
+    
+        return UserResource::collection($users);
+    }
+
+**Highlights**
+
+* API Resources
+* Query Optimization
+* Pagination
+* Eloquent Relationships
+
+### Repository Pattern
+
+    interface UserRepositoryInterface
+    {
+        public function findById(int $id): ?User;
+        public function create(array $data): User;
+    }
+
+    class UserRepository implements UserRepositoryInterface
+    {
+        public function findById(int $id): ?User
+        {
+            return User::find($id);
+        }
+    
+        public function create(array $data): User
+        {
+            return User::create($data);
+        }
+    }
+
+**Highlights**
+
+* SOLID Principles
+* Dependency Injection
+* Maintainable Architecture
+
+### Payment Gateway Integration    
+
+    public function createOrder(float $amount): array
+    {
+        $api = new Api(
+            config('services.razorpay.key'),
+            config('services.razorpay.secret')
+        );
+    
+        return $api->order->create([
+            'amount' => $amount * 100,
+            'currency' => 'INR',
+            'receipt' => Str::uuid()
+        ]);
+    }
+
+**Highlights**
+
+* Razorpay Integration
+* Secure Payment Processing
+* Config Driven Architecture
+
+### Queue Jobs & Background Processing
+
+    class SendInvoiceEmail implements ShouldQueue
+    {
+        use Dispatchable, Queueable;
+    
+        public function __construct(
+            protected Invoice $invoice
+        ) {}
+    
+        public function handle(): void
+        {
+            Mail::to($this->invoice->customer->email)
+                ->send(new InvoiceMail($this->invoice));
+        }
+    }
+
+**Highlights**
+
+* Queue Processing
+* Async Operations
+* Scalable Applications
+
+### WordPress Custom Development
+
+    $args = [
+        'post_type'      => 'case_studies',
+        'posts_per_page' => 6,
+        'post_status'    => 'publish',
+    ];
+    
+    $query = new WP_Query($args);
+    
+    while ($query->have_posts()) {
+        $query->the_post();
+        get_template_part(
+            'template-parts/content',
+            'case-study'
+        );
+    }
+    
+    wp_reset_postdata();
+
+**Highlights**
+
+* Custom Theme Development
+* Dynamic Content Management
+* Scalable WordPress Architecture
+
+---
+
+## Development Practices
+
+✔ SOLID Principles
+
+✔ RESTful API Design
+
+✔ Secure Authentication & Authorization
+
+✔ Payment Gateway Integrations
+
+✔ Performance Optimization
+
+✔ Queue & Background Jobs
+
+✔ Database Optimization
+
+✔ Git Version Control
+
+✔ Agile Development Methodology
+
 ---
 
 ## Key Achievements
