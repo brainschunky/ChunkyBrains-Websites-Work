@@ -44,7 +44,9 @@ A collection of web development projects delivered for clients across various in
 ### Project 1: EMG – Facility Management
 
 **Technology Stack:** Laravel, MySQL, REST APIs, Mobile Application Integration
+
 **Website Url:** https://admin.emgindia.in/
+
 **Project Overview**
 
 EMG is a comprehensive facility management platform designed for organizations providing security and cleaning services across commercial buildings, hospitals, offices, and industrial facilities. The system digitizes workforce operations, attendance tracking, incident management, and service reporting through both web and mobile applications.
