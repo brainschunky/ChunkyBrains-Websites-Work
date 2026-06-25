@@ -227,7 +227,7 @@ The website strengthens the organization's digital presence while providing memb
 
 **Screenshots**
 
-<p align="center"><img src="3sixtyhealth/sixty1.png" width="400"><img src="3sixtyhealth/sixty3.png" width="400"><img src="3sixtyhealth/sixty2.png" width="400"><img src="3sixtyhealth/sixty4.png" width="400"></p>
+<p align="center"><img src="3sixtyhealth/sixty4.png" width="400"><img src="3sixtyhealth/sixty3.png" width="400"><img src="3sixtyhealth/sixty2.png" width="400"><img src="3sixtyhealth/sixty1.png" width="400"></p>
 
 ---
 
