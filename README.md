@@ -39,9 +39,9 @@ A collection of web development projects delivered for clients across various in
 
 ## Featured Projects
 
-# Laravel Applications
+### Laravel Applications
 
-## EMG – Facility Management System
+### Project 1: EMG – Facility Management
 
 **Technology Stack:** Laravel, MySQL, REST APIs, Mobile Application Integration
 
