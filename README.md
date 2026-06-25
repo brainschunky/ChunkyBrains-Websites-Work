@@ -167,6 +167,21 @@ The platform reduced administrative workload for healthcare providers while prov
 
 <p align="center"><img src="TatkalDoctor/1.png" width="400"><img src="TatkalDoctor/2.png" width="400"><img src="TatkalDoctor/3.png" width="400"><img src="TatkalDoctor/4.png" width="400"><img src="TatkalDoctor/5.png" width="400"><img src="TatkalDoctor/6.png" width="400"></p>
 
+## Core Laravel Expertise Demonstrated
+
+* Enterprise Web Applications
+* Multi-Tenant Architectures
+* Role-Based Access Control (RBAC)
+* Appointment & Booking Systems
+* Geo-Location Integrations
+* QR Code Implementations
+* REST API Development
+* Mobile App Backend Development
+* E-commerce Functionality
+* Business Process Automation
+* Inventory Management Systems
+* Reporting & Analytics Dashboards
+
 ---
 
 ### WordPress Websites
@@ -315,6 +330,10 @@ OKAYGROWTH is a business consulting platform helping organizations achieve predi
 
 The platform positions OKAYGROWTH as a trusted growth partner while generating leads through clear messaging, educational content, and strategic conversion pathways.
 
+**Screenshots**
+
+<img src="okaygrowth/hone.png" width="900">
+
 ---
 
 ## WordPress Expertise Demonstrated
@@ -332,27 +351,11 @@ The platform positions OKAYGROWTH as a trusted growth partner while generating l
 * Content Management Solutions
 * UI/UX Enhancement
 
-
-## Core Laravel Expertise Demonstrated
-
-* Enterprise Web Applications
-* Multi-Tenant Architectures
-* Role-Based Access Control (RBAC)
-* Appointment & Booking Systems
-* Geo-Location Integrations
-* QR Code Implementations
-* REST API Development
-* Mobile App Backend Development
-* E-commerce Functionality
-* Business Process Automation
-* Inventory Management Systems
-* Reporting & Analytics Dashboards
-
 ---
 
 ## Key Achievements
 
-- 50+ Client Projects Delivered
+- 200+ Client Projects Delivered
 - Laravel & PHP Custom Development
 - WordPress & Squarespace Expertise
 - Payment Gateway Integrations
