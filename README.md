@@ -690,23 +690,15 @@ The platform positions OKAYGROWTH as a trusted growth partner while generating l
 
 ## Development Practices
 
-✔ SOLID Principles
-
-✔ RESTful API Design
-
-✔ Secure Authentication & Authorization
-
-✔ Payment Gateway Integrations
-
-✔ Performance Optimization
-
-✔ Queue & Background Jobs
-
-✔ Database Optimization
-
-✔ Git Version Control
-
-✔ Agile Development Methodology
+* SOLID Principles
+* RESTful API Design
+* Secure Authentication & Authorization
+* Payment Gateway Integrations
+* Performance Optimization
+* Queue & Background Jobs
+* Database Optimization
+* Git Version Control
+* Agile Development Methodology
 
 ---
 
