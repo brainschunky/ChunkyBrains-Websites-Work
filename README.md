@@ -101,7 +101,7 @@ COCO created a centralized digital ecosystem for pet owners, improving accessibi
 
 **Screenshots**
 
-<img src="coco/coco1.png" width="600"><img src="coco/coco2.png" width="600"><img src="coco/coco3.png" width="600"><img src="coco/coco4.png" width="600"><img src="coco/coco5.png" width="600"><img src="coco/coco6.png" width="600">
+<p align="center"><img src="coco/coco1.png" width="400"><img src="coco/coco2.png" width="400"><img src="coco/coco3.png" width="400"><img src="coco/coco4.png" width="400"><img src="coco/coco5.png" width="400"><img src="coco/coco6.png" width="400"></p>
 
 ---
 
