@@ -109,6 +109,8 @@ COCO created a centralized digital ecosystem for pet owners, improving accessibi
 
 **Technology Stack:** Laravel, MySQL, Inventory Management System
 
+**Website Url:** https://brickandwallsinc.com/paintsuvidha/public/
+
 **Project Overview**
 
 Paint Suvidha is a business management platform developed for the painting services industry. The solution enables collaboration between administrators, dealers, and painters while streamlining quotation management, inventory distribution, product sales tracking, and commission calculations.
@@ -128,6 +130,10 @@ Paint Suvidha is a business management platform developed for the painting servi
 **Business Impact**
 
 The platform improved operational efficiency by digitizing the relationship between painters and dealers, providing transparency in product distribution, commission management, and project execution.
+
+**Screenshots**
+
+<p align="center"><img src="PaintSuvidha/image1.png" width="400"><img src="PaintSuvidha/image2.png" width="400"><img src="PaintSuvidha/image3.png" width="400"><img src="PaintSuvidha/image4.png" width="400"><img src="PaintSuvidha/image5.png" width="400"><img src="PaintSuvidha/image6.png" width="400"></p>
 
 ---
 
