@@ -257,7 +257,7 @@ The platform enables healthcare providers to easily discover products, access de
 
 **Screenshots**
 
-<p align="center"><img src="Aktina/aktina 1 uppp.png" width="400"><img src="Aktina/aktina 6 upp.png" width="400"><img src="Aktina/aktina 3 uppp.png" width="400"><img src="Aktina/aktina 4 uppp.png" width="400"></p>
+<p align="center"><img src="Aktina/aktina 3 uppp.png" width="400"><img src="Aktina/aktina 4 uppp.png" width="400"><img src="Aktina/aktina 1 uppp.png" width="400"><img src="Aktina/aktina 6 upp.png" width="400"></p>
 
 ---
 
