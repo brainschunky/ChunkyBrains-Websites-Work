@@ -110,7 +110,7 @@ The platform significantly reduced manual processes, improved operational transp
 
 **Technology Stack:** Laravel, MySQL, Geo-location Services, E-commerce Integration
 
-**Website Url:** https://coco.brickandwallsinc.com
+**Website Url:** https://coco.aromasolutions.in
 
 **Project Overview**
 
