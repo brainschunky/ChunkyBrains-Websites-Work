@@ -197,7 +197,7 @@ The platform serves as a professional digital presence that clearly communicates
 
 **Screenshots**
 
-<p align="center"><img src="Amasol/amasol1.png" width="400"><img src="Amasol/amasol2.png" width="400"></p>
+<img src="Amasol/amasol1.png" width="400"><img src="Amasol/amasol2.png" width="400">
 
 ---
 
