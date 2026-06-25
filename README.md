@@ -67,6 +67,10 @@ EMG is a comprehensive facility management platform designed for organizations p
 
 The platform significantly reduced manual processes, improved operational transparency, enhanced workforce accountability, and streamlined communication between clients and service providers.
 
+**Screenshots**
+
+<img src="EMG/image1.png" width="600"><img src="EMG/image2.png" width="600"><img src="EMG/image3.png" width="600">
+
 ---
 
 ## COCO – Pet Healthcare & Service Marketplace
