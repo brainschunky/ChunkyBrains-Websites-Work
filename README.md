@@ -195,6 +195,10 @@ amasol is a leading IT consultancy and managed service provider specializing in 
 
 The platform serves as a professional digital presence that clearly communicates amasol's expertise while helping prospective clients understand their service offerings and technical capabilities.
 
+**Screenshots**
+
+<p align="center"><img src="Amasol/amasol1.png" width="400"><img src="Amasol/amasol2.png" width="400"></p>
+
 ---
 
 ### Project 2: 3Sixty Health – Healthcare Administration Website
