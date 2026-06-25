@@ -539,25 +539,25 @@ The platform positions OKAYGROWTH as a trusted growth partner while generating l
 
 ### Architecture Pattern – Service Layer
 
-class SubscriptionService
-{
-    public function create(array $data): Subscription
+    class SubscriptionService
     {
-        return DB::transaction(function () use ($data) {
-
-            $subscription = Subscription::create([
-                'user_id' => $data['user_id'],
-                'plan_id' => $data['plan_id'],
-                'starts_at' => now(),
-                'ends_at' => now()->addMonth(),
-            ]);
-
-            event(new SubscriptionCreated($subscription));
-
-            return $subscription;
-        });
+        public function create(array $data): Subscription
+        {
+            return DB::transaction(function () use ($data) {
+    
+                $subscription = Subscription::create([
+                    'user_id' => $data['user_id'],
+                    'plan_id' => $data['plan_id'],
+                    'starts_at' => now(),
+                    'ends_at' => now()->addMonth(),
+                ]);
+    
+                event(new SubscriptionCreated($subscription));
+    
+                return $subscription;
+            });
+        }
     }
-}
 
 ---
 
