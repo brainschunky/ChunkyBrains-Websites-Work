@@ -139,7 +139,7 @@ The platform improved operational efficiency by digitizing the relationship betw
 
 ## Project 4: Tatkal Doctor – WhatsApp Appointment Automation Platform
 
-**Technology Stack:** Laravel, WhatsApp Integration, QR Code System
+**Technology Stack:** Laravel, WhatsApp Integration, QR Code System 
 
 **Website Url:** https://www.tatkaldoctor.com/
 
