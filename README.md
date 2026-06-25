@@ -69,7 +69,7 @@ The platform significantly reduced manual processes, improved operational transp
 
 **Screenshots**
 
-<img src="EMG/image1.png" width="600"><img src="EMG/image2.png" width="600"><img src="EMG/image3.png" width="600"><img src="EMG/image4.png" width="600"><img src="EMG/image5.png" width="600"><img src="EMG/image6.png" width="600"><img src="EMG/image7.png" width="600"><img src="EMG/image8.png" width="600">
+<p align="center"><img src="EMG/image1.png" width="400"><img src="EMG/image2.png" width="400"><img src="EMG/image3.png" width="400"><img src="EMG/image4.png" width="400"><img src="EMG/image5.png" width="400"><img src="EMG/image6.png" width="400"><img src="EMG/image7.png" width="400"><img src="EMG/image8.png" width="400"></p>
 
 ---
 
