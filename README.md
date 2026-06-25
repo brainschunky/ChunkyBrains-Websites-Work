@@ -364,17 +364,14 @@ The website strengthens the organization's digital presence while providing memb
 <td valign="top">
 <img src="3sixtyhealth/sixty4.png" width="400">
 </td>
-
 <td valign="top">
 <img src="3sixtyhealth/sixty3.png" width="400">
 </td>
 </tr>
-
 <tr>
 <td valign="top">
 <img src="3sixtyhealth/sixty2.png" width="400">
 </td>
-
 <td valign="top">
 <img src="3sixtyhealth/sixty1.png" width="400">
 </td>
@@ -409,7 +406,24 @@ The platform enables healthcare providers to easily discover products, access de
 
 **Screenshots**
 
-<p align="center"><img src="Aktina/aktina 3 uppp.png" width="400"><img src="Aktina/aktina 4 uppp.png" width="400"><img src="Aktina/aktina 1 uppp.png" width="400"><img src="Aktina/aktina 6 upp.png" width="400"></p>
+<table align="center">
+<tr>
+<td valign="top">
+<img src="Aktina/aktina 3 uppp.png" width="400">
+</td>
+<td valign="top">
+<img src="Aktina/aktina 4 uppp.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="Aktina/aktina 1 uppp.png" width="400">
+</td>
+<td valign="top">
+<img src="Aktina/aktina 6 upp.png" width="400">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -439,7 +453,32 @@ The website improves product visibility while educating customers about surge pr
 
 **Screenshots**
 
-<p align="center"><img src="Ditek/image1.png" width="400"><img src="Ditek/image2.png" width="400"><img src="Ditek/image3.png" width="400"><img src="Ditek/image4.png" width="400"><img src="Ditek/image5.png" width="400"><img src="Ditek/image6.png" width="400"></p>
+<table align="center">
+<tr>
+<td valign="top">
+<img src="Ditek/image1.png" width="400">
+</td>
+<td valign="top">
+<img src="Ditek/image2.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="Ditek/image3.png" width="400">
+</td>
+<td valign="top">
+<img src="Ditek/image4.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="Ditek/image5.png" width="400">
+</td>
+<td valign="top">
+<img src="Ditek/image6.png" width="400">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -469,7 +508,13 @@ The platform positions OKAYGROWTH as a trusted growth partner while generating l
 
 **Screenshots**
 
+<table align="center">
+<tr>
+<td valign="top">
 <img src="okaygrowth/hone.png" width="900">
+</td>
+</tr>
+</table>
 
 ---
 
