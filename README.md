@@ -225,6 +225,10 @@ The platform serves as a professional digital presence that clearly communicates
 
 The website strengthens the organization's digital presence while providing members and stakeholders with clear access to healthcare administration services and resources.
 
+**Screenshots**
+
+<p align="center"><img src="3sixtyhealth/sixty1.png" width="400"><img src="3sixtyhealth/sixty2.png" width="400"><img src="3sixtyhealth/sixty3.png" width="400"><img src="3sixtyhealth/sixty4.png" width="400"></p>
+
 ---
 
 ### Project 3: Aktina – Medical Equipment Product Catalog
