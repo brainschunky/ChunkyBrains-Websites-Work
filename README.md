@@ -255,6 +255,10 @@ Aktina is a medical equipment supplier providing advanced healthcare products to
 
 The platform enables healthcare providers to easily discover products, access detailed specifications, and initiate purchase inquiries through a streamlined user experience.
 
+**Screenshots**
+
+<p align="center"><img src="Aktina/aktina 1 uppp.png" width="400"><img src="Aktina/aktina 6 upp.png" width="400"><img src="Aktina/aktina 3 uppp.png" width="400"><img src="Aktina/aktina 4 uppp.png" width="400"></p>
+
 ---
 
 ### Project 4: DITEK Surge Protection – Electronic Safety Solutions Website
